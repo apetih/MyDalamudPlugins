@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "Author": "apetih",
+        "Name": "Logogram Helper",
+        "Punchline": "Helper plugin for Eureka's Logos Actions.",
+        "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator.",
+        "InternalName": "LogogramHelper",
+        "AssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/apetih/LogogramHelper",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "eureka",
+            "logograms"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "IconUrl": "",
+        "DownloadLinkInstall": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1671547325"
+    }
+]
