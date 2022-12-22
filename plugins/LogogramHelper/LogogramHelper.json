@@ -15,6 +15,6 @@
   ],
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
-  "IconUrl": "",
+  "IconUrl": "https://raw.githubusercontent.com/apetih/LogogramHelper/master/res/img/logoslogo.png",
   "Punchline": "Helper plugin for Eureka's Logos Actions."
 }
