@@ -2,7 +2,7 @@
   "Author": "apetih",
   "Name": "RTyping",
   "InternalName": "rtyping",
-  "AssemblyVersion": "0.0.0.2",
+  "AssemblyVersion": "0.0.0.3",
   "Description": "Allows other people using this plugin to see your typing status when in the same party.",
   "ApplicableVersion": "any",
   "Tags": [
