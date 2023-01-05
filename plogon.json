@@ -21,6 +21,29 @@
         "DownloadLinkTesting": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1671878622"
+        "LastUpdate": "1672955704"
+    },
+    {
+        "Author": "apetih",
+        "Name": "RTyping",
+        "Punchline": "Let people know when you r typing.",
+        "Description": "Allows other people using this plugin to see your typing status when in the same party.",
+        "InternalName": "rtyping",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "sample",
+            "plugin",
+            "goats"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1672955704"
     }
 ]
