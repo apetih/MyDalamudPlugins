@@ -1,0 +1,19 @@
+{
+  "Author": "apetih",
+  "Name": "RTyping",
+  "InternalName": "rtyping",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Allows other people using this plugin to see your typing status when in the same party.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Let people know when you r typing.",
+  "AcceptsFeedback": true
+}
