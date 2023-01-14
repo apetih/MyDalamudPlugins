@@ -12,7 +12,7 @@
             "eureka",
             "logograms"
         ],
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/apetih/LogogramHelper/master/res/img/logoslogo.png",
         "DownloadLinkInstall": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673111284"
+        "LastUpdate": "1673703295"
     },
     {
         "Author": "apetih",
@@ -29,7 +29,7 @@
         "Punchline": "Let people know when you r typing.",
         "Description": "Allows other people using this plugin to see your typing status when in the same party.",
         "InternalName": "rtyping",
-        "AssemblyVersion": "0.0.0.12",
+        "AssemblyVersion": "0.0.0.13",
         "RepoUrl": "https://github.com/apetih/rtyping",
         "ApplicableVersion": "any",
         "Tags": [
@@ -37,7 +37,7 @@
             "indicator",
             "typing"
         ],
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
         "IsHide": false,
@@ -45,6 +45,6 @@
         "DownloadLinkTesting": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
         "DownloadLinkUpdate": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673111284"
+        "LastUpdate": "1673703295"
     }
 ]
