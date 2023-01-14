@@ -19,6 +19,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/apetih/rtyping/main/res/img/icon.png",
   "Punchline": "Let people know when you r typing.",
   "AcceptsFeedback": true
 }
