@@ -13,8 +13,11 @@
   "CategoryTags": [
     "utility"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/apetih/LogogramHelper/master/res/img/logoslogo.png",
-  "Punchline": "Helper plugin for Eureka's Logos Actions."
+  "Punchline": "Helper plugin for Eureka's Logos Actions.",
+  "AcceptsFeedback": true
 }
