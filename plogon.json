@@ -1,6 +1,31 @@
 [
     {
         "Author": "apetih",
+        "Name": "RTyping",
+        "Punchline": "Let people know when you r typing.",
+        "Description": "Allows other people using this plugin to see your typing status when in the same party.",
+        "InternalName": "rtyping",
+        "AssemblyVersion": "0.0.1.2",
+        "RepoUrl": "https://github.com/apetih/rtyping",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "chat",
+            "indicator",
+            "typing"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/apetih/rtyping/main/res/img/icon.png",
+        "DownloadLinkInstall": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1674666838"
+    },
+    {
+        "Author": "apetih",
         "Name": "Logogram Helper",
         "Punchline": "Helper plugin for Eureka's Logos Actions.",
         "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator.",
@@ -21,31 +46,6 @@
         "DownloadLinkTesting": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673977138"
-    },
-    {
-        "Author": "apetih",
-        "Name": "RTyping",
-        "Punchline": "Let people know when you r typing.",
-        "Description": "Allows other people using this plugin to see your typing status when in the same party.",
-        "InternalName": "rtyping",
-        "AssemblyVersion": "0.0.1.1",
-        "RepoUrl": "https://github.com/apetih/rtyping",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "chat",
-            "indicator",
-            "typing"
-        ],
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/apetih/rtyping/main/res/img/icon.png",
-        "DownloadLinkInstall": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1673977138"
+        "LastUpdate": "1674666838"
     }
 ]
