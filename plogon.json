@@ -5,7 +5,7 @@
         "Punchline": "Let people know when you r typing.",
         "Description": "Allows other people using this plugin to see your typing status when in the same party.",
         "InternalName": "rtyping",
-        "AssemblyVersion": "0.0.1.3",
+        "AssemblyVersion": "0.0.1.4",
         "RepoUrl": "https://github.com/apetih/rtyping",
         "ApplicableVersion": "any",
         "Tags": [
@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
         "DownloadLinkUpdate": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/rtyping/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676024651"
+        "LastUpdate": "1676025536"
     },
     {
         "Author": "apetih",
@@ -46,6 +46,6 @@
         "DownloadLinkTesting": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/apetih/MyDalamudPlugins/raw/main/plugins/LogogramHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676024651"
+        "LastUpdate": "1676025536"
     }
 ]
